@@ -1,1 +1,1 @@
-# Supervised_machine_learning
+# SupervisedMachineLearning
